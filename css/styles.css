@@ -1,0 +1,147 @@
+
+/* Introduction */
+
+.Introduction{
+    
+    background-color: #DFF6FF;
+}
+.realcare{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 3.5rem;
+    line-height: 1.5;
+    color: black;
+    margin-top: 100px;
+    font-weight: 800;
+}
+.dogs{
+    width:80%;
+    margin-top: 100px;
+    margin-bottom: 30px;
+    
+}
+
+/* AboutUs */
+
+.second-container-images{
+    width: 10%;
+    margin: 20px;
+}
+.second-container-row{
+    margin:80px 80px;
+}
+.feature-box{
+    text-align: center;
+}
+h3{
+    font-family: "Montserrat";
+    font-weight: 800;
+}
+h6{
+    color: grey;
+}
+
+/* Products */
+
+.dog-products{
+    width: 100%;
+}
+.recommend{
+    
+    text-align: center;
+    color: black;
+    background-color: #DFF6FF;
+    font-family: "Montserrat";
+}
+.product-image{
+    margin-top: 100px;
+    margin-bottom: 50px;
+    width: 300px;
+    height: 300px;
+}
+.product-box{
+    text-align: center;
+}
+.multivitamin-heading{
+    margin-top: 40px;
+}
+.item{
+    height: 700px;
+    text-align: center;
+}
+.product-heading{
+    font-family: "Montserrat";
+    font-weight: 800;
+} 
+.product-description{
+    text-align: center;
+}
+
+/* Month Plan */
+
+.chihuahua{
+    width: 200px;
+    height:150px;
+}
+.month-list{
+    padding-top: 50px;
+}
+.month-plan-container{
+    padding-top: 100px;
+}
+.month-plan-heading{
+    padding-top: 50px;
+    font-size: 50px;
+    text-align: center;
+    font-family: "Montserrat";
+    font-weight: 800;
+}
+.card{
+    background-color: #DFF6FF;
+}
+
+/* Review */
+
+.lady-image{
+    
+    height:100px;
+    width:100px;
+    border-radius: 100%;
+    text-align:center;
+}
+
+
+.review-item{
+    text-align: center;
+    padding-top: 50px;
+}
+.review{
+    margin-top: 50px;
+    
+}
+.dog-image{
+    height:100px;
+    width:100px;
+    border-radius:100%;
+    text-align:center;
+}
+.review-1{
+    font-family: "Montserrat";
+}
+.companies{
+    margin-top:0px;
+    padding-top: 50px;
+    padding-bottom:50px;
+}
+
+/* Contacts */
+
+.contact{
+    text-align: center;
+    margin-top:50px;
+    margin-bottom:100px;
+}
+.brand-images{
+    width:20px;
+    height:20px;
+    margin-bottom:30px;
+}
